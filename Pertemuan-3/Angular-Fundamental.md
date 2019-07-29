@@ -8,8 +8,7 @@ Mahasiswa diharapkan dapat:
 2. Membuat komponen menggunakan angular CLI
 
 ### Pendahuluan
-	
-Angular merupakan framework yang memiliki konsep Component Based seperti beberapa framework javascript modern lainnya sehingga diperlukan untuk mengetahui komponen apa aja yang akan dibuat pada angular. Pertama kali yang harus diperhatikan adalah bagaimana membuat file component pertama. Angular CLI akan mengenerate file app.module.ts, app.component.ts, app.component.html, app.component.css dan app.component.spec.ts
+	Angular merupakan framework yang memiliki konsep Component Based seperti beberapa framework javascript modern lainnya sehingga diperlukan untuk mengetahui komponen apa aja yang akan dibuat pada angular. Pertama kali yang harus diperhatikan adalah bagaimana membuat file component pertama. Angular CLI akan mengenerate file app.module.ts, app.component.ts, app.component.html, app.component.css dan app.component.spec.ts
 Component
 
 Komponen pada Angular merupakan bagian-bagian kecil dari keselurahan aplikasi. Misal pada aplikasi chat terdapat komponent form, button, box-chat, balon chat, dsb tergantung bagaimana anda membagi menjadi kepingan-kepingan dari suatu aplikasi utuh atau sebagai contoh pada gambar 1 desain course dimana ada navbar, sidebar dan isi dari course. Pada angular bagian-bagian tersebut dibuat sebagai sebuah component yang nantinya akan saling terkait sehingga hasilnya seperti pada gambar 2.
