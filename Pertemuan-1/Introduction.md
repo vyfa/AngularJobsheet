@@ -13,6 +13,7 @@ Angular JS pertama kali dikembangkan oleh Misko Hevery dan Adam Abrons pada tahu
 Framework ini mendukung penggunaan HTML sebagai template dan memberikan keleluasaan pada pengembang untuk mengekspresikan komponen dari aplikasi yang dibuat secara baik dan ringkas. AngularJS menggunakan metode MVC (Model View Controller) yang membuat source code dari aplikasi yang dibuat menjadi lebih mudah untuk dikembangkan. Data Binding dan dependency injection dapat mengeliminasi banyak code yang akan ditulis. Semuanya dibebankan kepada web browser sehingga membuatnya menjadi partener ideal dengan teknologi server. Angular JS digunakan untuk membangun aplikasi yang bersifat Single Page Application (SPA). Single Page Application merupakan aplikasi yang menggunakan utilitas penuh di browser yang tidak membutuhkan reload atau pergantian halaman dengan cara merequest ke server. Sedangkan Multipage Application membutuhkan request ke server dan server mereturn berupa HTML ke Browser artinya setiap perpindahan halaman pada multipage application membutuhkan reuqest dari client ke server. Single Page Application biasanya melakukan request ke server selain mendapatkan initial file (js/html/css) juga mendapatkan data berupa JSON yang berfungsi sebagai data untuk komponennya.
 
 ![SPA-MPA](images/spa-mpa.png)
+
 **Gambar 1. Single Page Application vs Multipage Application**
 
 ##### Fitur Utama AngularJS :
